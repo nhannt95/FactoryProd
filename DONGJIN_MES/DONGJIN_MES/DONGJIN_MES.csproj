@@ -1,0 +1,488 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1AE32E84-A935-4442-8D49-DF5CEA8AF10B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>DONGJIN_MES</RootNamespace>
+    <AssemblyName>DONGJIN_MES</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>dongjin_icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AutoUpdater.NET, Version=1.6.0.0, Culture=neutral, PublicKeyToken=501435c91b35f4bc, processorArchitecture=MSIL">
+      <HintPath>..\packages\Autoupdater.NET.Official.1.6.0\lib\net40\AutoUpdater.NET.dll</HintPath>
+    </Reference>
+    <Reference Include="DarkSoul">
+      <HintPath>C:\Users\diang\Downloads\DarkSoul.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroProgressBar">
+      <HintPath>bin\DongjinMES\MetroProgressBar.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Bcl.AsyncInterfaces, Version=6.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Bcl.AsyncInterfaces.6.0.0\lib\net461\Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Bcl.HashCode, Version=1.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Microsoft.Bcl.HashCode.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\..\..\Excel\Excel\Excel\bin\Debug\Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.10.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Npgsql">
+      <HintPath>..\..\..\PLC_Collect\PLCMonitoring\PLCMonitoring\bin\Debug\Npgsql.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="RestSharp, Version=106.0.0.0, Culture=neutral, PublicKeyToken=598062e77f915f75, processorArchitecture=MSIL">
+      <HintPath>..\packages\RestSharp.106.10.1\lib\net452\RestSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Spire.Barcode">
+      <HintPath>C:\Users\diang\Downloads\The Wall Export Label\The Wall Export Label\E-Pass Printing\bin\Debug\Spire.Barcode.dll</HintPath>
+    </Reference>
+    <Reference Include="SunnyUI">
+      <HintPath>..\..\Users\admin\Desktop\SunnyUI-master\SunnyUI-master\Bin\net472\SunnyUI.dll</HintPath>
+    </Reference>
+    <Reference Include="SunnyUI.Common, Version=3.2.0.0, Culture=neutral, PublicKeyToken=5a271fb7ba597231" />
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Diagnostics.DiagnosticSource, Version=5.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\DongjinMES\System.Diagnostics.DiagnosticSource.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.4.5.4\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net" />
+    <Reference Include="System.Net.Http.WebRequest" />
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime" />
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.6.0.0\lib\net461\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Text.Encodings.Web, Version=6.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Text.Encodings.Web.6.0.0\lib\net461\System.Text.Encodings.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Text.Json.6.0.0\lib\net461\System.Text.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Channels, Version=6.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\System.Threading.Channels.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.2.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Threading.Tasks.Extensions.4.5.4\lib\net461\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ValueTuple.4.5.0\lib\net47\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="XanderUI">
+      <HintPath>C:\Users\diang\Downloads\XanderUI-master\XanderUI-master\XanderUI.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class\DataLayer.cs" />
+    <Compile Include="Class\ProgramSettings.cs" />
+    <Compile Include="Class\SmtPrinting.cs" />
+    <Compile Include="Class\Utinity.cs" />
+    <Compile Include="Custom\CustomCheckBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Custom\CustomCheckBox.Designer.cs">
+      <DependentUpon>CustomCheckBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Custom\ILabel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Custom\ILabelS.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Custom\IPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Custom\IPanelS.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Custom\iRichTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Custom\ITableLayout.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Custom\ITextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Custom\LabelComponent.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Custom\LabelComponent.Designer.cs">
+      <DependentUpon>LabelComponent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Custom\LabelComponents.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Custom\LabelComponents.Designer.cs">
+      <DependentUpon>LabelComponents.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Custom\PanelShadow.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Custom\RichTextBoxs.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IUserControl\Database.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IUserControl\Database.Designer.cs">
+      <DependentUpon>Database.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IUserControl\Login.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="IUserControl\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IUserControl\LoginV2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IUserControl\LoginV2.Designer.cs">
+      <DependentUpon>LoginV2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IUserControl\Main.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="IUserControl\Main.Designer.cs">
+      <DependentUpon>Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IUserControl\ProductionResult.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="IUserControl\ProductionResult.Designer.cs">
+      <DependentUpon>ProductionResult.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IUserControl\Reason.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IUserControl\Reason.Designer.cs">
+      <DependentUpon>Reason.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IUserControl\Settings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IUserControl\Settings.Designer.cs">
+      <DependentUpon>Settings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IUserControl\Sorting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IUserControl\Sorting.Designer.cs">
+      <DependentUpon>Sorting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IUserControl\Splash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IUserControl\Splash.designer.cs">
+      <DependentUpon>Splash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IUserControl\SubSetting\IOInfo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="IUserControl\SubSetting\IOInfo.Designer.cs">
+      <DependentUpon>IOInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IUserControl\SubSetting\LineInfo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="IUserControl\SubSetting\LineInfo.Designer.cs">
+      <DependentUpon>LineInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IUserControl\SubSetting\MsgBoxF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IUserControl\SubSetting\MsgBoxF.Designer.cs">
+      <DependentUpon>MsgBoxF.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IUserControl\SubSetting\MsgBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IUserControl\SubSetting\MsgBox.Designer.cs">
+      <DependentUpon>MsgBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IUserControl\SubSetting\PLCInfo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="IUserControl\SubSetting\PLCInfo.Designer.cs">
+      <DependentUpon>PLCInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IUserControl\SubSetting\PrintConfig.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IUserControl\SubSetting\PrintConfig.Designer.cs">
+      <DependentUpon>PrintConfig.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IUserControl\SubSetting\PrinterInfo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="IUserControl\SubSetting\PrinterInfo.Designer.cs">
+      <DependentUpon>PrinterInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IUserControl\SubSetting\Resize.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IUserControl\SubSetting\Resize.Designer.cs">
+      <DependentUpon>Resize.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IUserControl\SubSetting\SerialPort.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="IUserControl\SubSetting\SerialPort.Designer.cs">
+      <DependentUpon>SerialPort.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IUserControl\SubSetting\SoundInfo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="IUserControl\SubSetting\SoundInfo.Designer.cs">
+      <DependentUpon>SoundInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IUserControl\SubSetting\UnitID.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="IUserControl\SubSetting\UnitID.Designer.cs">
+      <DependentUpon>UnitID.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Custom\CustomCheckBox.resx">
+      <DependentUpon>CustomCheckBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Custom\LabelComponent.resx">
+      <DependentUpon>LabelComponent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Custom\LabelComponents.resx">
+      <DependentUpon>LabelComponents.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IUserControl\Database.resx">
+      <DependentUpon>Database.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IUserControl\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IUserControl\LoginV2.resx">
+      <DependentUpon>LoginV2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IUserControl\Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IUserControl\ProductionResult.resx">
+      <DependentUpon>ProductionResult.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IUserControl\Reason.resx">
+      <DependentUpon>Reason.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IUserControl\Settings.resx">
+      <DependentUpon>Settings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IUserControl\Sorting.resx">
+      <DependentUpon>Sorting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IUserControl\Splash.resx">
+      <DependentUpon>Splash.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IUserControl\SubSetting\IOInfo.resx">
+      <DependentUpon>IOInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IUserControl\SubSetting\LineInfo.resx">
+      <DependentUpon>LineInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IUserControl\SubSetting\MsgBoxF.resx">
+      <DependentUpon>MsgBoxF.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IUserControl\SubSetting\MsgBox.resx">
+      <DependentUpon>MsgBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IUserControl\SubSetting\PLCInfo.resx">
+      <DependentUpon>PLCInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IUserControl\SubSetting\PrintConfig.resx">
+      <DependentUpon>PrintConfig.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IUserControl\SubSetting\PrinterInfo.resx">
+      <DependentUpon>PrinterInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IUserControl\SubSetting\Resize.resx">
+      <DependentUpon>Resize.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IUserControl\SubSetting\SerialPort.resx">
+      <DependentUpon>SerialPort.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IUserControl\SubSetting\SoundInfo.resx">
+      <DependentUpon>SoundInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IUserControl\SubSetting\UnitID.resx">
+      <DependentUpon>UnitID.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Configuration.json" />
+    <None Include="packages.config" />
+    <None Include="PrintSettings.json" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Settings.json" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Close_40px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\excel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\geography_40px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\info_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\notification_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home_28px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.8f77d0ce.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Close_24px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close_window_28px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close_window_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.8f77d0ce1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\multiply_40px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\closeg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maximizes.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimizs.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="dongjin_icon.ico" />
+    <Content Include="logo.8f77d0ce.ico" />
+    <None Include="Resources\logo.jpg" />
+    <None Include="Resources\pixlr-bg-result1.png" />
+    <None Include="Resources\dthaus.jpg" />
+    <None Include="Resources\DTHAUS_LOGO_white.png" />
+    <None Include="Resources\pixlr-bg-result.png" />
+    <None Include="Resources\Splash1.jpg" />
+    <None Include="Resources\Splash.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="..\packages\System.Text.Json.6.0.0\build\System.Text.Json.targets" Condition="Exists('..\packages\System.Text.Json.6.0.0\build\System.Text.Json.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\System.Text.Json.6.0.0\build\System.Text.Json.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\System.Text.Json.6.0.0\build\System.Text.Json.targets'))" />
+  </Target>
+</Project>

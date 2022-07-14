@@ -1,0 +1,597 @@
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Release\DONGJIN_MES.exe.config
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Release\DONGJIN_MES.exe
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Release\DONGJIN_MES.pdb
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Release\Newtonsoft.Json.xml
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Release\Npgsql.xml
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Release\System.Memory.xml
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Release\System.Threading.Channels.xml
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Release\System.Threading.Tasks.Extensions.xml
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Release\System.Diagnostics.DiagnosticSource.xml
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Release\System.Text.Json.xml
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Release\Microsoft.Bcl.HashCode.xml
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Release\System.Buffers.xml
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Release\System.Numerics.Vectors.xml
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Release\System.Text.Encodings.Web.xml
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Release\System.ValueTuple.xml
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\DONGJIN_MES.exe.config
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\DONGJIN_MES.exe
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\DONGJIN_MES.pdb
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\AutoUpdater.NET.dll
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\CheckBoxComboBox.dll
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\DarkSoul.dll
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\MetroFramework.dll
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\MetroProgressBar.dll
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\Newtonsoft.Json.dll
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\Npgsql.dll
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\Spire.Barcode.dll
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\XanderUI.dll
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Memory.dll
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Threading.Channels.dll
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Text.Json.dll
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Buffers.dll
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Numerics.Vectors.dll
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Text.Encodings.Web.dll
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.ValueTuple.dll
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\AutoUpdater.NET.pdb
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\AutoUpdater.NET.xml
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\CheckBoxComboBox.pdb
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\MetroProgressBar.pdb
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\Newtonsoft.Json.xml
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\Npgsql.xml
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Memory.xml
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Threading.Channels.xml
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Text.Json.xml
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Buffers.xml
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Numerics.Vectors.xml
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Text.Encodings.Web.xml
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.ValueTuple.xml
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.csproj.AssemblyReference.cache
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.csproj.SuggestedBindingRedirects.cache
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.exe.config
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.Custom.CustomCheckBox.resources
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.Custom.DateTimes.resources
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.Custom.DropMenu.resources
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.Custom.IButton.resources
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.Custom.ICheckBoxCp.resources
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.Custom.IComboBox.resources
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.Custom.IDateTime.resources
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.Custom.LabelComponent.resources
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.Custom.LabelComponents.resources
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.Custom.RJComboBox.resources
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.Custom.RJTextBox.resources
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.frmMain.resources
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.Login.resources
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.Main.resources
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.ProductionResult.resources
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.Reason.resources
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.Settings.resources
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\Office2013StyleSplashScreen.Splash.resources
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.IOInfo.resources
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.LineInfo.resources
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.MsgBoxF.resources
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.MsgBox.resources
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.PLCInfo.resources
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.PrintConfig.resources
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.PrinterInfo.resources
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.Resize.resources
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.SerialPort.resources
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.SoundInfo.resources
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.UnitID.resources
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.Properties.Resources.resources
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.csproj.GenerateResource.cache
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.csproj.CoreCompileInputs.cache
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.csproj.CopyComplete
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.exe
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.pdb
+C:\Users\admin\Desktop\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\DONGJIN_MES.exe.config
+C:\Users\admin\Desktop\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\DONGJIN_MES.exe
+C:\Users\admin\Desktop\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\DONGJIN_MES.pdb
+C:\Users\admin\Desktop\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\AutoUpdater.NET.dll
+C:\Users\admin\Desktop\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\MetroFramework.dll
+C:\Users\admin\Desktop\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\MetroProgressBar.dll
+C:\Users\admin\Desktop\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Memory.dll
+C:\Users\admin\Desktop\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Threading.Channels.dll
+C:\Users\admin\Desktop\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\admin\Desktop\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\admin\Desktop\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\admin\Desktop\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Text.Json.dll
+C:\Users\admin\Desktop\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\admin\Desktop\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\admin\Desktop\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Buffers.dll
+C:\Users\admin\Desktop\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\admin\Desktop\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\admin\Desktop\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.ValueTuple.dll
+C:\Users\admin\Desktop\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\AutoUpdater.NET.pdb
+C:\Users\admin\Desktop\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\AutoUpdater.NET.xml
+C:\Users\admin\Desktop\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\CheckBoxComboBox.pdb
+C:\Users\admin\Desktop\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\MetroProgressBar.pdb
+C:\Users\admin\Desktop\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\Npgsql.xml
+C:\Users\admin\Desktop\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Memory.xml
+C:\Users\admin\Desktop\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Threading.Channels.xml
+C:\Users\admin\Desktop\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\admin\Desktop\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\admin\Desktop\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\admin\Desktop\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Text.Json.xml
+C:\Users\admin\Desktop\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\admin\Desktop\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\admin\Desktop\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Buffers.xml
+C:\Users\admin\Desktop\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\admin\Desktop\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\admin\Desktop\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.ValueTuple.xml
+C:\Users\admin\Desktop\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.exe.config
+C:\Users\admin\Desktop\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.Custom.CustomCheckBox.resources
+C:\Users\admin\Desktop\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.Custom.DateTimes.resources
+C:\Users\admin\Desktop\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.Custom.DropMenu.resources
+C:\Users\admin\Desktop\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.Custom.IButton.resources
+C:\Users\admin\Desktop\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.Custom.ICheckBoxCp.resources
+C:\Users\admin\Desktop\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.Custom.IComboBox.resources
+C:\Users\admin\Desktop\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.Custom.IDateTime.resources
+C:\Users\admin\Desktop\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.Custom.LabelComponent.resources
+C:\Users\admin\Desktop\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.Custom.LabelComponents.resources
+C:\Users\admin\Desktop\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.Custom.RJComboBox.resources
+C:\Users\admin\Desktop\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.Custom.RJTextBox.resources
+C:\Users\admin\Desktop\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.frmMain.resources
+C:\Users\admin\Desktop\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.Login.resources
+C:\Users\admin\Desktop\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.Main.resources
+C:\Users\admin\Desktop\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.ProductionResult.resources
+C:\Users\admin\Desktop\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.Reason.resources
+C:\Users\admin\Desktop\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.Settings.resources
+C:\Users\admin\Desktop\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\Office2013StyleSplashScreen.Splash.resources
+C:\Users\admin\Desktop\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.IOInfo.resources
+C:\Users\admin\Desktop\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.LineInfo.resources
+C:\Users\admin\Desktop\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.MsgBoxF.resources
+C:\Users\admin\Desktop\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.MsgBox.resources
+C:\Users\admin\Desktop\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.PLCInfo.resources
+C:\Users\admin\Desktop\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.PrintConfig.resources
+C:\Users\admin\Desktop\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.PrinterInfo.resources
+C:\Users\admin\Desktop\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.Resize.resources
+C:\Users\admin\Desktop\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.SerialPort.resources
+C:\Users\admin\Desktop\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.SoundInfo.resources
+C:\Users\admin\Desktop\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.UnitID.resources
+C:\Users\admin\Desktop\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.Properties.Resources.resources
+C:\Users\admin\Desktop\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.csproj.CopyComplete
+C:\Users\admin\Desktop\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.exe
+C:\Users\admin\Desktop\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.pdb
+C:\DONGJIN_MES\DONGJIN_MES\bin\Debug\SunnyUI.dll
+C:\DONGJIN_MES\DONGJIN_MES\bin\Debug\AutoUpdater.NET.dll
+C:\DONGJIN_MES\DONGJIN_MES\bin\Debug\MetroProgressBar.dll
+C:\DONGJIN_MES\DONGJIN_MES\bin\Debug\AutoUpdater.NET.pdb
+C:\DONGJIN_MES\DONGJIN_MES\bin\Debug\AutoUpdater.NET.xml
+C:\DONGJIN_MES\DONGJIN_MES\bin\Debug\MetroProgressBar.pdb
+C:\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.csproj.SuggestedBindingRedirects.cache
+C:\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.exe.config
+C:\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.Custom.CustomCheckBox.resources
+C:\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.Custom.LabelComponent.resources
+C:\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.Custom.LabelComponents.resources
+C:\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.Form1.resources
+C:\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.frmMain.resources
+C:\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.Login.resources
+C:\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.LoginV2.resources
+C:\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.Main.resources
+C:\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.ProductionResult.resources
+C:\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.Reason.resources
+C:\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.Settings.resources
+C:\DONGJIN_MES\DONGJIN_MES\obj\Debug\Office2013StyleSplashScreen.Splash.resources
+C:\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.IOInfo.resources
+C:\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.LineInfo.resources
+C:\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.MsgBoxF.resources
+C:\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.MsgBox.resources
+C:\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.PLCInfo.resources
+C:\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.PrintConfig.resources
+C:\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.PrinterInfo.resources
+C:\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.Resize.resources
+C:\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.SerialPort.resources
+C:\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.SoundInfo.resources
+C:\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.UnitID.resources
+C:\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.Properties.Resources.resources
+C:\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.csproj.GenerateResource.cache
+C:\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.csproj.CoreCompileInputs.cache
+C:\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.exe
+C:\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.pdb
+C:\DONGJIN_MES\DONGJIN_MES\bin\Debug\DONGJIN_MES.exe.config
+C:\DONGJIN_MES\DONGJIN_MES\bin\Debug\DONGJIN_MES.exe
+C:\DONGJIN_MES\DONGJIN_MES\bin\Debug\DONGJIN_MES.pdb
+C:\DONGJIN_MES\DONGJIN_MES\bin\Debug\SunnyUI.pdb
+C:\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.csproj.CopyComplete
+C:\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.csproj.AssemblyReference.cache
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\bin\Debug\DONGJIN_MES.exe.config
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\bin\Debug\DONGJIN_MES.exe
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\bin\Debug\DONGJIN_MES.pdb
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\bin\Debug\AutoUpdater.NET.dll
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\bin\Debug\DarkSoul.dll
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\bin\Debug\MetroProgressBar.dll
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\bin\Debug\Newtonsoft.Json.dll
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\bin\Debug\Spire.Barcode.dll
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Buffers.dll
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Memory.dll
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Numerics.Vectors.dll
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Text.Encodings.Web.dll
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Text.Json.dll
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.ValueTuple.dll
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\bin\Debug\XanderUI.dll
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\bin\Debug\AutoUpdater.NET.pdb
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\bin\Debug\AutoUpdater.NET.xml
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\bin\Debug\MetroProgressBar.pdb
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\bin\Debug\Newtonsoft.Json.xml
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Buffers.xml
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Memory.xml
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Numerics.Vectors.xml
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Text.Encodings.Web.xml
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Text.Json.xml
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.ValueTuple.xml
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.csproj.AssemblyReference.cache
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.csproj.SuggestedBindingRedirects.cache
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.Custom.CustomCheckBox.resources
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.Custom.LabelComponent.resources
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.Custom.LabelComponents.resources
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.Form1.resources
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.frmMain.resources
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.Login.resources
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.LoginV2.resources
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.Main.resources
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.ProductionResult.resources
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.Reason.resources
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.Settings.resources
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\obj\Debug\Office2013StyleSplashScreen.Splash.resources
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.IOInfo.resources
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.LineInfo.resources
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.MsgBoxF.resources
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.MsgBox.resources
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.PLCInfo.resources
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.PrintConfig.resources
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.PrinterInfo.resources
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.Resize.resources
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.SerialPort.resources
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.SoundInfo.resources
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.UnitID.resources
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.Properties.Resources.resources
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.csproj.GenerateResource.cache
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.csproj.CoreCompileInputs.cache
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.csproj.CopyComplete
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.exe
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.pdb
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\bin\Debug\RestSharp.dll
+D:\Project\Visual Studio\DONGJIN_MES\DONGJIN_MES\bin\Debug\RestSharp.xml
+C:\Users\admin\Downloads\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\bin\Debug\DONGJIN_MES.exe.config
+C:\Users\admin\Downloads\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\bin\Debug\DONGJIN_MES.exe
+C:\Users\admin\Downloads\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\bin\Debug\DONGJIN_MES.pdb
+C:\Users\admin\Downloads\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\bin\Debug\AutoUpdater.NET.dll
+C:\Users\admin\Downloads\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\bin\Debug\MetroProgressBar.dll
+C:\Users\admin\Downloads\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\admin\Downloads\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Downloads\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\bin\Debug\RestSharp.dll
+C:\Users\admin\Downloads\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Buffers.dll
+C:\Users\admin\Downloads\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\admin\Downloads\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Memory.dll
+C:\Users\admin\Downloads\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\admin\Downloads\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\admin\Downloads\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\admin\Downloads\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Text.Json.dll
+C:\Users\admin\Downloads\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\admin\Downloads\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.ValueTuple.dll
+C:\Users\admin\Downloads\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\bin\Debug\AutoUpdater.NET.pdb
+C:\Users\admin\Downloads\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\bin\Debug\AutoUpdater.NET.xml
+C:\Users\admin\Downloads\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\bin\Debug\MetroProgressBar.pdb
+C:\Users\admin\Downloads\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\admin\Downloads\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\Downloads\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\bin\Debug\RestSharp.xml
+C:\Users\admin\Downloads\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Buffers.xml
+C:\Users\admin\Downloads\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\admin\Downloads\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Memory.xml
+C:\Users\admin\Downloads\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\admin\Downloads\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\admin\Downloads\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\admin\Downloads\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Text.Json.xml
+C:\Users\admin\Downloads\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\admin\Downloads\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.ValueTuple.xml
+C:\Users\admin\Downloads\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Downloads\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.Custom.CustomCheckBox.resources
+C:\Users\admin\Downloads\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.Custom.LabelComponent.resources
+C:\Users\admin\Downloads\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.Custom.LabelComponents.resources
+C:\Users\admin\Downloads\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.Form1.resources
+C:\Users\admin\Downloads\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.frmMain.resources
+C:\Users\admin\Downloads\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.Login.resources
+C:\Users\admin\Downloads\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.LoginV2.resources
+C:\Users\admin\Downloads\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.Main.resources
+C:\Users\admin\Downloads\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.ProductionResult.resources
+C:\Users\admin\Downloads\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.Reason.resources
+C:\Users\admin\Downloads\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.Settings.resources
+C:\Users\admin\Downloads\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\obj\Debug\Office2013StyleSplashScreen.Splash.resources
+C:\Users\admin\Downloads\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.IOInfo.resources
+C:\Users\admin\Downloads\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.LineInfo.resources
+C:\Users\admin\Downloads\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.MsgBoxF.resources
+C:\Users\admin\Downloads\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.MsgBox.resources
+C:\Users\admin\Downloads\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.PLCInfo.resources
+C:\Users\admin\Downloads\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.PrintConfig.resources
+C:\Users\admin\Downloads\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.PrinterInfo.resources
+C:\Users\admin\Downloads\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.Resize.resources
+C:\Users\admin\Downloads\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.SerialPort.resources
+C:\Users\admin\Downloads\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.SoundInfo.resources
+C:\Users\admin\Downloads\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.UnitID.resources
+C:\Users\admin\Downloads\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.Properties.Resources.resources
+C:\Users\admin\Downloads\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.csproj.CopyComplete
+C:\Users\admin\Downloads\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.exe
+C:\Users\admin\Downloads\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.pdb
+D:\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\DONGJIN_MES.exe.config
+D:\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\DONGJIN_MES.exe
+D:\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\DONGJIN_MES.pdb
+D:\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\AutoUpdater.NET.dll
+D:\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\MetroProgressBar.dll
+D:\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\Newtonsoft.Json.dll
+D:\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\RestSharp.dll
+D:\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Buffers.dll
+D:\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Memory.dll
+D:\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Numerics.Vectors.dll
+D:\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Text.Encodings.Web.dll
+D:\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Text.Json.dll
+D:\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.ValueTuple.dll
+D:\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\AutoUpdater.NET.pdb
+D:\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\AutoUpdater.NET.xml
+D:\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\MetroProgressBar.pdb
+D:\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\Newtonsoft.Json.xml
+D:\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\RestSharp.xml
+D:\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Buffers.xml
+D:\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Memory.xml
+D:\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Numerics.Vectors.xml
+D:\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Text.Encodings.Web.xml
+D:\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Text.Json.xml
+D:\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.ValueTuple.xml
+D:\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.Custom.CustomCheckBox.resources
+D:\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.Custom.LabelComponent.resources
+D:\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.Custom.LabelComponents.resources
+D:\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.Form1.resources
+D:\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.frmMain.resources
+D:\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.Login.resources
+D:\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.LoginV2.resources
+D:\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.Main.resources
+D:\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.ProductionResult.resources
+D:\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.Reason.resources
+D:\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.Settings.resources
+D:\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\Office2013StyleSplashScreen.Splash.resources
+D:\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.IOInfo.resources
+D:\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.LineInfo.resources
+D:\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.MsgBoxF.resources
+D:\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.MsgBox.resources
+D:\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.PLCInfo.resources
+D:\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.PrintConfig.resources
+D:\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.PrinterInfo.resources
+D:\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.Resize.resources
+D:\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.SerialPort.resources
+D:\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.SoundInfo.resources
+D:\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.UnitID.resources
+D:\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.Properties.Resources.resources
+D:\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.csproj.GenerateResource.cache
+D:\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.csproj.CoreCompileInputs.cache
+D:\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.exe
+D:\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.pdb
+D:\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.csproj.CopyComplete
+D:\DONGJIN_MES (1)\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\bin\Debug\DONGJIN_MES.exe.config
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\bin\Debug\DONGJIN_MES.exe
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\bin\Debug\DONGJIN_MES.pdb
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\bin\Debug\AutoUpdater.NET.dll
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\bin\Debug\MetroProgressBar.dll
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\bin\Debug\RestSharp.dll
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Buffers.dll
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Memory.dll
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Text.Json.dll
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.ValueTuple.dll
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\bin\Debug\AutoUpdater.NET.pdb
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\bin\Debug\AutoUpdater.NET.xml
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\bin\Debug\MetroProgressBar.pdb
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\bin\Debug\RestSharp.xml
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Buffers.xml
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Memory.xml
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Text.Json.xml
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.ValueTuple.xml
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.Custom.CustomCheckBox.resources
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.Custom.LabelComponent.resources
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.Custom.LabelComponents.resources
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.frmMain.resources
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.Login.resources
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.LoginV2.resources
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.Main.resources
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.ProductionResult.resources
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.Reason.resources
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.Settings.resources
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\obj\Debug\Office2013StyleSplashScreen.Splash.resources
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.IOInfo.resources
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.LineInfo.resources
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.MsgBoxF.resources
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.MsgBox.resources
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.PLCInfo.resources
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.PrintConfig.resources
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.PrinterInfo.resources
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.Resize.resources
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.SerialPort.resources
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.SoundInfo.resources
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.UnitID.resources
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.Properties.Resources.resources
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.csproj.CopyComplete
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.exe
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.pdb
+D:\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\DONGJIN_MES.exe.config
+D:\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\DONGJIN_MES.exe
+D:\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\DONGJIN_MES.pdb
+D:\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\AutoUpdater.NET.dll
+D:\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\MetroProgressBar.dll
+D:\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\Newtonsoft.Json.dll
+D:\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\RestSharp.dll
+D:\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Buffers.dll
+D:\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Memory.dll
+D:\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Numerics.Vectors.dll
+D:\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Text.Encodings.Web.dll
+D:\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Text.Json.dll
+D:\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.ValueTuple.dll
+D:\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\AutoUpdater.NET.pdb
+D:\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\AutoUpdater.NET.xml
+D:\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\MetroProgressBar.pdb
+D:\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\Newtonsoft.Json.xml
+D:\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\RestSharp.xml
+D:\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Buffers.xml
+D:\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Memory.xml
+D:\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Numerics.Vectors.xml
+D:\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Text.Encodings.Web.xml
+D:\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Text.Json.xml
+D:\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.ValueTuple.xml
+D:\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.Custom.CustomCheckBox.resources
+D:\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.Custom.LabelComponent.resources
+D:\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.Custom.LabelComponents.resources
+D:\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.frmMain.resources
+D:\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.Login.resources
+D:\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.LoginV2.resources
+D:\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.Main.resources
+D:\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.ProductionResult.resources
+D:\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.Reason.resources
+D:\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.Settings.resources
+D:\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\Office2013StyleSplashScreen.Splash.resources
+D:\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.IOInfo.resources
+D:\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.LineInfo.resources
+D:\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.MsgBoxF.resources
+D:\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.MsgBox.resources
+D:\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.PLCInfo.resources
+D:\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.PrintConfig.resources
+D:\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.PrinterInfo.resources
+D:\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.Resize.resources
+D:\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.SerialPort.resources
+D:\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.SoundInfo.resources
+D:\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.UnitID.resources
+D:\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.Properties.Resources.resources
+D:\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.csproj.GenerateResource.cache
+D:\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.csproj.CoreCompileInputs.cache
+D:\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.exe
+D:\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.pdb
+D:\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.csproj.CopyComplete
+D:\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.Database.resources
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.csproj.AssemblyReference.cache
+D:\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.csproj.SuggestedBindingRedirects.cache
+D:\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.Database.resources
+D:\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.Sorting.resources
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\DONGJIN_MES.exe.config
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\DONGJIN_MES.exe
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\DONGJIN_MES.pdb
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\AutoUpdater.NET.dll
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\MetroProgressBar.dll
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\Npgsql.dll
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\RestSharp.dll
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Buffers.dll
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Memory.dll
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Text.Json.dll
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.ValueTuple.dll
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\AutoUpdater.NET.pdb
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\AutoUpdater.NET.xml
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\MetroProgressBar.pdb
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\Npgsql.xml
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\RestSharp.xml
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Buffers.xml
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Memory.xml
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Text.Json.xml
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\bin\Debug\System.ValueTuple.xml
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.Custom.CustomCheckBox.resources
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.Custom.LabelComponent.resources
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.Custom.LabelComponents.resources
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.frmMain.resources
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.Database.resources
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.Login.resources
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.LoginV2.resources
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.Main.resources
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.ProductionResult.resources
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.Reason.resources
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.Settings.resources
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.Sorting.resources
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\Office2013StyleSplashScreen.Splash.resources
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.IOInfo.resources
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.LineInfo.resources
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.MsgBoxF.resources
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.MsgBox.resources
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.PLCInfo.resources
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.PrintConfig.resources
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.PrinterInfo.resources
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.Resize.resources
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.SerialPort.resources
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.SoundInfo.resources
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.IUserControl.SubSetting.UnitID.resources
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.Properties.Resources.resources
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.csproj.CopyComplete
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.exe
+C:\Users\admin\Desktop\NHAN\DONGJIN_MES\DONGJIN_MES\DONGJIN_MES\obj\Debug\DONGJIN_MES.pdb
